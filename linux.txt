@@ -1,0 +1,34 @@
+sudo service vsftpd start
+sudo chkconfig vsftpd on
+
+$ sudo service --status-all 
+$ sudo service docker start
+$ sudo serviec docker restart
+
+
+docker pull docker.io/kalilinux/kali-rolling
+docker run --tty --interactive kalilinux/kali-rolling
+exit
+docker container list --all
+docker start <id>
+docker attach <id>
+docker rm <id>
+https://github.com/nethunter729/Passw.git
+
+
+https://www.onworks.net/playonline/index.php
+all machine sudo password is 123456
+
+
+
+
+
+
+
+
+
+
+ubuntu@mypc:~$ sudo apt-get install john -y
+
+john --format=pdf <file-name>
+
