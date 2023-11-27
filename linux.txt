@@ -6,29 +6,45 @@ $ sudo service docker start
 $ sudo serviec docker restart
 
 
-docker pull docker.io/kalilinux/kali-rolling
-docker run --tty --interactive kalilinux/kali-rolling
-exit
-docker container list --all
+docker pull docker.io/kalilinux/kali-rolling && docker run --tty --interactive kalilinux/kali-rolling && exit && docker container list --all
 docker start <id>
 docker attach <id>
 docker rm <id>
+
+sudo apt-get update
+sudo apt-get -y install hashcat
+sudo apt-get -y install john
+
 https://github.com/nethunter729/Passw.git
 
 
 https://www.onworks.net/playonline/index.php
 all machine sudo password is 123456
 
+Aung12345
 
 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAEifO8k6WR7yuDabumYDnffQ6hTKQwfaaOMwxJyRG+a
 
+f789b15051854f5e84ca0d3ed5a6c7ff
 
-
-
+server-ef2768a40a294a5d8aa031da7421f41b
 
 
 
 ubuntu@mypc:~$ sudo apt-get install john -y
 
 john --format=pdf <file-name>
+
+
+
+
+
+https://app.community.saturnenterprise.io/dash/o/community/resources/jupyterServer/6111887a857c4d6d9204399c323dabcd/
+
+
+https://www.kaggle.com/code/myatsui/notebookcb593f0706/edit
+
+
+https://colab.research.google.com/drive/1me7SX7r6FE1aMZ1KE7Xyrh-iFWxknp7L
 
